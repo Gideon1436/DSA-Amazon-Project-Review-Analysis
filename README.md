@@ -53,6 +53,51 @@ Analyzed 1,465 Amazon products across multiple categories to identify key trends
 - Trend analysis visualizations
 
 ## Exploratory Data Analysis/Analysis Questions Answered
+[Amazon case study.xlsx](https://github.com/user-attachments/files/21320466/Amazon.case.study.xlsx)
+
+### Visualizations
+1. Charts
+- Rating vs Discount Level Correlation
+<img width="1366" height="506" alt="Rating vs Discount Level Correlation" src="https://github.com/user-attachments/assets/ba0df14f-35c7-4901-b5a9-10db7fb74dfb" />
+
+
+- Product Rating Distribution
+<img width="1366" height="487" alt="Product Rating Distribution" src="https://github.com/user-attachments/assets/8a073208-e4e6-4dbc-a28d-5dd16b90d228" />
+
+
+- Number of Unique Product Per Price Range Bucket
+<img width="1355" height="514" alt="Number of Unique Products Per Price Range Bucket" src="https://github.com/user-attachments/assets/36a882c4-be11-4db0-8784-94c1d690ec0e" />
+
+
+- Products with the Highest Average Rating
+<img width="1366" height="515" alt="Products with the Highest Average Rating" src="https://github.com/user-attachments/assets/2fa8501a-e4ec-417f-a595-c965a5724703" />
+
+
+- Products with the Highest Number of Reviews
+<img width="1358" height="516" alt="Products with the Highest Number of Reviews" src="https://github.com/user-attachments/assets/16a1888e-baf8-41a7-9064-287d6ca88cac" />
+
+
+
+- Product Category with the Highest Discount
+<img width="1366" height="516" alt="Product Category with the Highest Discount" src="https://github.com/user-attachments/assets/030112f5-a98a-446b-9db5-61bf76ee2bcc" />
+
+
+
+- Top 5 Products in Trems of Rating and Reviews Combined
+<img width="1023" height="509" alt="Top 5 Products in Trems of Rating and Reviews Combined" src="https://github.com/user-attachments/assets/3ecc91ba-cc8a-44f8-bc01-63ef667839b8" />
+
+
+
+2. Dashboard Screenshot
+- Excel Dashboard
+ <img width="1294" height="519" alt="Excel_Dashboard" src="https://github.com/user-attachments/assets/ff826f81-510f-4334-83ee-add294548738" />
+
+
+
+### Report
+[Amazon Analysis Report.docx](https://github.com/user-attachments/files/21321307/Amazon.Analysis.Report.docx)
+
+
 
 
 ## Future Enhancements
