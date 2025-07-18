@@ -1,5 +1,6 @@
 # DSA-Amazon-Project-Review-Analysis
 This is a project on Excel-based analysis of Amazon product reviews and customer engagement data
+
 ## Project Overview
 This project analyzes Amazon product review data to generate insights for product improvement, marketing strategies, and customer engagement using Excel-based analytical tools.
 
@@ -53,11 +54,6 @@ Analyzed 1,465 Amazon products across multiple categories to identify key trends
 
 ## Exploratory Data Analysis/Analysis Questions Answered
 
-
-## Installation & Usage
-1. Clone the repository
-2. Open Excel files in Microsoft Excel 2016 or later
-4. Navigate through different sheets for comprehensive analysis
 
 ## Future Enhancements
 - Time series analysis
