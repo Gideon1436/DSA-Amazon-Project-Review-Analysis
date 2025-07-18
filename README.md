@@ -95,9 +95,9 @@ Analyzed 1,465 Amazon products across multiple categories to identify key trends
 
 
 ## Amazon Analysis Report
-[Amazon Analysis Report.docx](https://github.com/user-attachments/files/21321307/Amazon.Analysis.Report.docx)
 
 Based on the dashboard data, the following are key findings:
+
 **1.	Rating vs Discount Correlation**
 
 Key Findings:
