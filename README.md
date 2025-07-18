@@ -34,7 +34,6 @@ This project analyzes Amazon product review data to generate insights for produc
 - Microsoft Excel
 - Pivot Tables
 - Excel Charts and Visualizations
-- Data Validation and Cleaning
 
 ## Project Structure
 - `data/`: Raw and processed datasets
@@ -47,15 +46,17 @@ This project analyzes Amazon product review data to generate insights for produc
 Analyzed 1,465 Amazon products across multiple categories to identify key trends in pricing, customer engagement, and product performance. The analysis revealed significant insights for retail optimization and customer satisfaction strategies.
 
 ## Dashboard Features
-- Interactive filters by category and price range
+- Interactive filters by rating
 - Dynamic charts showing key metrics
 - Summary statistics and KPIs
 - Trend analysis visualizations
 
+## Exploratory Data Analysis/Analysis Questions Answered
+
+
 ## Installation & Usage
 1. Clone the repository
 2. Open Excel files in Microsoft Excel 2016 or later
-3. Enable macros if prompted
 4. Navigate through different sheets for comprehensive analysis
 
 ## Future Enhancements
