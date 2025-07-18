@@ -44,7 +44,7 @@ This project analyzes Amazon product review data to generate insights for produc
 - `reports/`: Final analysis report
 
 ## Key Insights
-[Insert 3-5 key findings from your analysis]
+Analyzed 1,465 Amazon products across multiple categories to identify key trends in pricing, customer engagement, and product performance. The analysis revealed significant insights for retail optimization and customer satisfaction strategies.
 
 ## Dashboard Features
 - Interactive filters by category and price range
@@ -64,5 +64,5 @@ This project analyzes Amazon product review data to generate insights for produc
 - Customer sentiment analysis integration
 
 ## Contact
-[Your Name] - [Your Email]
-Project Link: https://github.com/Gideon/amazon-product-review-analysis
+[Gideon Taiwo Otolorin] - [otoloringideon@gmail.com]
+Project Link: https://github.com/Gideon1436/amazon-product-review-analysis
